@@ -14,4 +14,5 @@
   * [Metadata for software citation](https://docs.google.com/document/d/115K1qpvAIF7rrNyOnUqi3Pfg9YjkwuZ4TXOOdipeK1s/edit?usp=sharing)
   * [IMLS preproposal](https://docs.google.com/document/d/1XmETjzkefghaI37WbBw5LVzJMZ8i2u9i-9xy7HizUCU/edit?usp=sharing) for workshop
 
-
+### Fuel for the fire
+["Resume: How to quantify my contributions as a software engineer?"](https://workplace.stackexchange.com/questions/143735/resume-how-to-quantify-my-contributions-as-a-software-engineer?utm_source=Iterable&utm_medium=email&utm_campaign=the-overflow-newsletter&utm_content=10-04-19)
