@@ -26,6 +26,7 @@ Summary: Establish two pots of funding and one curatorial position within Wolbac
 The external funding would be awarded to up to three groups who would be selected with input from the CfA group, Wolbach Library, and an external expert panel.
 
 Estimated 3 years of funding needed to try this out (~1.5M)
+
 Each year:
 * CfA group - ~100K for scientific staff time and effort
 * External pot - 300K (up to 100K per awardee)
