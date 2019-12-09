@@ -4,7 +4,7 @@ Wolbach, LSF, MIT, NASA, and CPL will work together to develop instructions for 
 I would like to work together to develop a short “LSTN Handbook” to help with station setup and suggest initial educational activities and resources.
 There’s a lot we could do after the pilot and I would like to start looking into funding opportunities to support post-pilot ideas. Thoughts welcome.
 
-## [LSTN Pilot](lstn-pilot)
+## [LSTN Pilot]
 The LSTN pilot period is an opportunity to refine ideas for a comprehensive funding proposal. Below are ideas for the pilot and for what we may pursue after.
 
 ### Current Contributors to LSTN 
@@ -92,7 +92,7 @@ Materials for each of these activities will be developed collaboratively and wil
 	* Meteorology
 	* Telecommunications
 
-### [Post-Pilot Possibilities](post-pilot)
+### [Post-Pilot Possibilities]
 Following the pilot, we will have learned what worked and what failed, and what the communities find most valuable. The feedback we receive should shape curriculum development goals and be incorporated into the following existing ideas related to LSTN funding:
 
 #### LSTN Ambassador program
