@@ -4,7 +4,7 @@ Wolbach, LSF, MIT, NASA, and CPL will work together to develop instructions for 
 I would like to work together to develop a short “LSTN Handbook” to help with station setup and suggest initial educational activities and resources.
 There’s a lot we could do after the pilot and I would like to start looking into funding opportunities to support post-pilot ideas. Thoughts welcome.
 
-## [LSTN Pilot]
+## LSTN Pilot
 The LSTN pilot period is an opportunity to refine ideas for a comprehensive funding proposal. Below are ideas for the pilot and for what we may pursue after.
 
 ### Current Contributors to LSTN 
@@ -35,7 +35,7 @@ The LSTN pilot period is an opportunity to refine ideas for a comprehensive fund
 * Emily St. Germain
 * Reinhard Engles
 
-## LSTN Pilot: Resources and Activities
+## LSTN Pilot Resources and Activities
 We plan to recommend specific activities and make a small set of resources available to support the pilot communities as they get started with their ground stations. Ideally we will have a short list of educational activities that could be undertaken throughout year two of the Sloan funding period (April 2020 - March 2021). Activities and resources should help communities take advantage of their stations, and inform further refinement of the MetaSat schema as implemented on SatNOGs and NASA systems. 
 
 Documents will be made available online prior to builds planned for spring 2020; [LSTN website](https://lstn.wolba.ch/build/) still in development.
@@ -92,7 +92,7 @@ Materials for each of these activities will be developed collaboratively and wil
 	* Meteorology
 	* Telecommunications
 
-### [Post-Pilot Possibilities]
+### Post-Pilot Possibilities
 Following the pilot, we will have learned what worked and what failed, and what the communities find most valuable. The feedback we receive should shape curriculum development goals and be incorporated into the following existing ideas related to LSTN funding:
 
 #### LSTN Ambassador program
