@@ -1,9 +1,10 @@
+# LSTN Education
 #### tl;dr
 Wolbach, LSF, MIT, NASA, and CPL will work together to develop instructions for a community build that can be tried out at CPL in April 2020. Instructions will be refined to support builds at other libraries. 
 I would like to work together to develop a short “LSTN Handbook” to help with station setup and suggest initial educational activities and resources.
 There’s a lot we could do after the pilot and I would like to start looking into funding opportunities to support post-pilot ideas. Thoughts welcome.
 
-# LSTN Education
+## [LSTN Pilot](lstn-pilot)
 The LSTN pilot period is an opportunity to refine ideas for a comprehensive funding proposal. Below are ideas for the pilot and for what we may pursue after.
 
 ### Current Contributors to LSTN 
@@ -37,7 +38,7 @@ The LSTN pilot period is an opportunity to refine ideas for a comprehensive fund
 ## LSTN Pilot: Resources and Activities
 We plan to recommend specific activities and make a small set of resources available to support the pilot communities as they get started with their ground stations. Ideally we will have a short list of educational activities that could be undertaken throughout year two of the Sloan funding period (April 2020 - March 2021). Activities and resources should help communities take advantage of their stations, and inform further refinement of the MetaSat schema as implemented on SatNOGs and NASA systems. 
 
-Documents will be made available online prior to builds planned for early spring 2020. LSTN web presence still needs to be established.
+Documents will be made available online prior to builds planned for spring 2020; [LSTN website](https://lstn.wolba.ch/build/) still in development.
 
 ### LSTN Handbook
 * Introduce library staff and community to the technology and SatNOGS DB
@@ -66,7 +67,7 @@ Materials for each of these activities will be developed collaboratively and wil
 * Community build instructions should include information that can be shared about how each component works and information about how to learn more after the build
 	* Handbook resources can be reused
 
-#### Introduction to SatNOGS dashboards
+#### Introduction to [SatNOGS dashboards](https://dashboard.satnogs.org/)
 * Choose a NASA mission as an example
 	* Present goals of the mission, information about the people involved and the instruments
 	* Give some background about the mission’s development and progress
@@ -78,10 +79,10 @@ Materials for each of these activities will be developed collaboratively and wil
 	* E.g. find out more about the satellite by going to the SatNOGS DB record; find out more about the mission from NASA mission pages
 
 #### Introduction to mission artifacts
-* Understanding waterfalls/imaging from SatNOGS DB
+* Understanding waterfalls/imaging from satellites
 	* Converting sounds to images
 		* Demo/introduction to tools
-* Finding artifacts from past missions on NASA platforms
+* Finding artifacts from past missions on NASA and LSF platforms
 * Learning how to interpret and compare data from different relevant sources
 
 #### Other ideas
@@ -91,8 +92,8 @@ Materials for each of these activities will be developed collaboratively and wil
 	* Meteorology
 	* Telecommunications
 
-### Post-Pilot Possibilities
-Following the pilot, we will have learned what worked and what failed, and what the communities find most valuable. The feedback we receive should shape the curriculum development goals and be incorporated into existing ideas for LSTN funding.
+### [Post-Pilot Possibilities](post-pilot)
+Following the pilot, we will have learned what worked and what failed, and what the communities find most valuable. The feedback we receive should shape curriculum development goals and be incorporated into the following existing ideas related to LSTN funding:
 
 #### LSTN Ambassador program
 LSTN Ambassadors could be librarians or other people interested in supporting a LSNT library. LSTN Ambassadors would go through an initial “train the trainer” program so they would be able to help troubleshoot ground station installations, support maintenance, and help if needed with some educational efforts. LSTN Ambassadors would sign up for a one year term and be willing to spend up to a few hours each month (or as needed) supporting a specific library community. LSTN Ambassadors would be required to help with the initial ground station build but mostly willing to just be a local support person if help is needed.
@@ -106,11 +107,11 @@ LSTN Ambassadors could be librarians or other people interested in supporting a 
 	* “Train the Trainer” Curriculum development
 	* Community coordinator
 		* Paid position
-* Group calling platform
-* Small honorariums
+	* Group calling platform (e.g., Zoom)
+	* Small honorariums for advisors
 
 #### LSTN Portal
-Curriculum materials for all suggested pilot activities could be hosted on the portal along with an expanded set of curricular materials. This could also be a place to find out about the Ambassador program and resources provided by NASA, MIT, and others.	
+Curriculum materials for all suggested pilot activities could be hosted on the portal along with an expanded set of curricular materials. This could also be a place to find out about the Ambassador program and resources provided by NASA, MIT, and others. Our current plan is to host materials on the [LSTN website](https://lstn.wolba.ch/) but we may in the future host material on [MIT's PubPub platform](https://www.pubpub.org/).	
 
 * Considerations
 	* Material on LSTN Portal should not duplicate materials that can be located elsewhere (should point to it instead)
@@ -119,17 +120,14 @@ Curriculum materials for all suggested pilot activities could be hosted on the p
 * Funding needed for:
 	* Curriculum development
 	* Web development
-	* Content curator - this might be a role the community coordinator can take on (?)
+	* Content curator - this might be a role the community coordinator takes on
 		* Paid position
 
 #### Other ideas
 * Science connections
-  * We could put SatNOGS stations in remote locations where other types of research are being conducted (e.g Greenland, Hawaii) and create primers on the research being done in those locations.
-    * Learn more about the work being done at other locations stations in the network
-    * Scientists may be willing to provide educational material to the libraries about their work
-* Translate all materials in different languages and braille
-* Develop resources and tools to continually solicit public feedback on the MetaSat schema
-
-
-
-
+  * We could put SatNOGS stations in remote locations where other types of research are being conducted (e.g Greenland, Hawaii) and create primers about the research being done in those locations.
+  * These resources would help people learn more about the science being done at other locations in the network
+  * Scientists in remote locations may be willing to provide educational material to the libraries about their work
+* Translate all materials in different languages (not English) and braille.
+* Develop resources and tools to continually solicit public feedback on the MetaSat schema.
+   * Expand on the [schema sorting tool](https://metasat.schema.space/).  
