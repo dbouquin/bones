@@ -1,4 +1,58 @@
 # LSTN Education
+
+## Part II: An update on education ideas
+
+Note: Libraries need a model of a CubeSat!
+
+### Make your own radio spectrum - Young Children
+
+* Make a template with the X and Y axis labeled - Use rulers and crayons to fill it in
+* Mark the range that applies to your station
+	* Pick another station and see if it’s the same
+		* Check out [stations in other bands](https://db.satnogs.org/stats/) - not currently an easy things to do
+	* Learn [what the abbreviations mean](https://en.wikipedia.org/wiki/Radio_spectrum#Bands) and the [weird history](https://www.microwaves101.com/encyclopedias/frequency-letter-bands) of the letter designations - sometimes jargon that seems like nonsense is nonsense
+* Compare the wavelengths 
+	* Frequency conversion to wavelength (centimeters) - draw them on a big roll of paper
+* Explain why satellites use different bands
+	* Label some satellites on the spectrum
+
+[![image](https://upload.wikimedia.org/wikipedia/commons/c/c1/Frq_Band_Comparison.png)](https://commons.wikimedia.org/wiki/File:Frq_Band_Comparison.png)
+
+### Take a Satellite Observation Home - Middle School
+
+[<img align="right" src="https://network.satnogs.org/media/data_obs/1608133/waterfall_1608133_2020-01-28T13-31-52.png" height="400">](https://network.satnogs.org/media/data_obs/1608133/waterfall_1608133_2020-01-28T13-31-52.png)
+
+* Provide libraries printouts of example waterfalls
+	* Explain how to read them
+		* Multiple examples needed
+* Provide libraries printouts of a NOAA observation (waterfall and image) - choose satellite with orbit that goes over LSTN location
+	* Explain what this satellite is doing - what is the mission?
+	* Explain printouts - How do you interpret the waterfall? What part of the Earth does the image show?
+		* Play recording associated with observation
+			* Provide small speaker to plug into a phone?
+* Schedule an observation of this satellite
+	* When will the satellite pass over the library’s station?
+	* Librarian demos scheduling process 
+* Have attendees use the laptop to choose their own mission with observations
+	* Print out a waterfall and an image to take home - need small photo printer
+
+
+### Mission Control 101- Teens/Adults
+Could be an online tutorial (?) 
+
+* Select a mission with a dashboard (e.g., [ARMADILLO](https://dashboard.satnogs.org/d/gJaci3SWk/armadillo?orgId=1)) - Display dashboard on a screen
+	* What is ARMADILLO doing?
+		* What does each panel mean?
+		* Why are different aspects monitored?
+	* Find an individual observation
+...   
+
+* Print the dashboard?
+
+---------------
+
+## Part I: An Overview(?)
+
 #### tl;dr
 Wolbach, LSF, MIT, NASA, and CPL will work together to develop instructions for a community build that can be tried out at CPL in April 2020. Instructions will be refined to support builds at other libraries. 
 I would like to work together to develop a short “LSTN Handbook” to help with station setup and suggest initial educational activities and resources.
@@ -52,7 +106,7 @@ Documents will be made available online prior to builds planned for spring 2020;
 		* Include a description of the anticipated learning outcomes
 	* Links to related support materials
 
-### Proposed Activities
+### Some Ideas for Activities
 Materials for each of these activities will be developed collaboratively and will be refined iteratively. Materials made available online should be screen readable. Learning outcomes need to be defined for each activity. We should make a deliberate effort to increase participation by people who are currently under represented in the small satellite community.
 
 #### Ground station community build
